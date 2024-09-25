@@ -1,1 +1,1 @@
-# studentmanagementsystem
+A simple web application using python
